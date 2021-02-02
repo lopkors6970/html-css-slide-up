@@ -1,0 +1,33 @@
+.yukari_cik{
+    position: fixed;
+    height: 30px;
+    width: 100px;
+    background-color: white;
+    color: #54595D;
+    right: 25px;
+    bottom: 25px;
+    outline: none;
+    cursor: pointer;
+    font-size: 14px;
+    display: none;
+    border-radius: 1px;
+    border: 1px solid #C8C8C8;
+}
+.yukari_cik span{
+    margin-left: 7px;
+}
+.yukari_cik:hover{
+    border: 1px solid crimson;
+    background-color: #fff;
+    color: crimson;
+
+}
+.goster{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: white;
+    height: 1500px;
+}
